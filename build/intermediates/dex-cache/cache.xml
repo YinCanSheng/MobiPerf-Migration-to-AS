@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/libs/myjson-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8530cb5b9f019a4398588ffe31dbf30c7d2b1294">
+        <dex dex="/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/pre-dexed/debug/myjson-1.7.1_6b316b86ca5c2f40b8b06a358dc4ee7d090273d5.jar" />
+    </item>
+
+</items>

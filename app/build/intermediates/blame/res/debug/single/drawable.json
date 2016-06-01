@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/ic_tab_results_icon.xml",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/ic_tab_results_icon.xml"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/ic_tab_user_measurement.xml",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/ic_tab_user_measurement.xml"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/whiteline.png",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/whiteline.png"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/ic_tab_schedules.xml",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/ic_tab_schedules.xml"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/splashscreen.jpg",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/splashscreen.jpg"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/icon_statusbar.png",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/icon_statusbar.png"
+    },
+    {
+        "merged": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Gautam/AndroidStudioProjects/MobiPerfMig/app/src/main/res/drawable/icon.png"
+    }
+]
